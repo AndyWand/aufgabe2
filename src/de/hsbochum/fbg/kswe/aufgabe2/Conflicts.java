@@ -14,7 +14,7 @@ public class Conflicts {
         Point point52n = new Point(51.935025, 7.651961);
         Point pointHsb = new Point(51.447655, 7.270567);
         
-        System.out.println(String.format("Distance between 52N Office and HS Bochum is %s",
+        System.out.println(String.format("Distance between 52N Office and HS Bochum is %s meters",
                 point52n.distanceTo(pointHsb)));
     }
     
